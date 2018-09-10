@@ -1,0 +1,2 @@
+# training
+Learning exercises
